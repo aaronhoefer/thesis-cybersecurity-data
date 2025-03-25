@@ -1,2 +1,2 @@
 # thesis-cybersecurity-data
-Dataset and analysis scripts for bachelor's thesis on cybersecurity trends.
+This repository contains the code, data, and visualizations used in my bachelor's thesis on global cybersecurity patterns.
